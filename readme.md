@@ -1,5 +1,7 @@
 # Music app
 
+GO TO https://github.com/jayxrey/musicapp to see the final project.
+
 Run with :
 
 ```shell
